@@ -1,0 +1,131 @@
+.card-a {
+    width: 400px;
+    height: 500px;
+    background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+    border-radius: 20px;
+    transition: all .3s;
+    margin-left: 2%;
+    margin-top:0.5%;
+    
+   }
+   
+   .card-a-1 {
+    width: 400px;
+    height: 500px;
+    background-color: #e9ecf1;
+    border-radius:20px;
+    transition: all .2s;
+    
+   
+   
+   }
+   
+   .card-a-1:hover {
+    transform: scale(0.98);
+    border-radius: 20px;
+   }
+   
+   .card-a:hover {
+    box-shadow: 0px 0px 30px 1px rgba(0, 255, 117, 0.30);
+   }
+   .card-heading h1{
+       padding-top:40px;
+    text-align: center;
+       color:rgb(50, 68, 68);
+   }
+   /* first card end */
+.aboutus h1{
+    text-align: center;
+    margin-top: 2%;
+    line-height: 150%;
+    color: rgb(4, 5, 5);
+    font-weight: bolder;
+    padding-top: 20px;
+    
+}
+.aboutus h5{
+    text-align: center;
+    margin-top: 1%;
+    line-height: 150%;
+    color: rgb(3, 0, 0);
+}
+.main {
+    background-color: #99959b;
+    margin-top: -2%;
+}
+
+.imag{
+
+    height: 50px;
+    width: 50px;
+    margin-top:6%;
+    margin-left: 40%;
+}
+   .card-content h3{
+    line-height: 160%;
+    color:rgb(3, 1, 1);
+    padding-top: 30px;
+    text-align:left;
+    padding-left: 18px;
+    padding-right: 5px;
+    font-size : 18px;
+   }
+
+   .card-b {
+    width: 400px;
+    height: 500px;
+    background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+    border-radius: 20px;
+    transition: all .3s;
+    margin-left: 68%;
+    margin-top:-38.5%;
+    
+   }
+   
+   .card-b-1 {
+    width: 400px;
+    height: 500px;
+    background-color: #f0f3f7;
+    border-radius:20px;
+    transition: all .2s;
+   
+   }
+   
+   .card-b-1:hover {
+    transform: scale(0.98);
+    border-radius: 20px;
+   }
+   
+   .card-b:hover {
+    box-shadow: 0px 0px 30px 1px rgba(0, 255, 117, 0.30);
+   }
+
+   
+   .card-c {
+    width: 400px;
+    height: 500px;
+    background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+    border-radius: 20px;
+    transition: all .3s;
+    margin-left: 35%;
+    margin-top:-38.5%;
+    
+   }
+   
+   .card-c-1 {
+    width: 400px;
+    height: 500px;
+    background-color: #eaeef3;
+    border-radius:20px;
+    transition: all .2s;
+   
+   }
+   
+   .card-c-1:hover {
+    transform: scale(0.98);
+    border-radius: 20px;
+   }
+   
+   .card-c:hover {
+    box-shadow: 0px 0px 30px 1px rgba(0, 255, 117, 0.30);
+   }
